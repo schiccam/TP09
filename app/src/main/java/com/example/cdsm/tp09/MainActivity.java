@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity
         Tv_Pays = (TextView) findViewById(R.id.Textview_Pays);
 
         String[] Amerique = {"Venezuela","USA","Canada","Argentine","Chili"};
-        String[] Europe = {"d"};
+        String[] Europe = {"France","Espagne","Italie","Suisse"};
         String[] Asie = {""};
         String[] Afrique = {""};
         String[] Océanie = {""};
